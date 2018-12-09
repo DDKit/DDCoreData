@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DDCoreData'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = '基于CoreData的二次封装'
 
 # This description is used to generate tags and improve search results.
