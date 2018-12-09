@@ -22,11 +22,11 @@ Pod::Spec.new do |s|
 基于CoreData的二次封装
 DESC
 
-  s.homepage         = 'https://github.com/duanchanghe@gmail.com/DDCoreData'
+  s.homepage         = 'https://github.com/DDKit/DDCoreData'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'duanchanghe@gmail.com' => '592110272@qq.com' }
-  s.source           = { :git => 'https://github.com/duanchanghe@gmail.com/DDCoreData.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/DDKit/DDCoreData.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
