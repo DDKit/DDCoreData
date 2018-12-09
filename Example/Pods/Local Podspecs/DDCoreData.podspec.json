@@ -1,6 +1,6 @@
 {
   "name": "DDCoreData",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "summary": "基于CoreData的二次封装",
   "description": "基于CoreData的二次封装\n基于CoreData的二次封装",
   "homepage": "https://github.com/duanchanghe@gmail.com/DDCoreData",
@@ -13,11 +13,12 @@
   },
   "source": {
     "git": "https://github.com/duanchanghe@gmail.com/DDCoreData.git",
-    "tag": "0.1.1"
+    "tag": "1.0.0"
   },
   "platforms": {
     "ios": "9.0"
   },
+  "swift_version": "4.2",
   "source_files": "DDCoreData/Classes/**/*",
   "frameworks": [
     "UIKit",
