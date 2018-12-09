@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DDCoreData_Example' do
+  pod 'DDCoreData', :path => '../'
+
+  target 'DDCoreData_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

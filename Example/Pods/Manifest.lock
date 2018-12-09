@@ -1,0 +1,16 @@
+PODS:
+  - DDCoreData (0.1.0)
+
+DEPENDENCIES:
+  - DDCoreData (from `../`)
+
+EXTERNAL SOURCES:
+  DDCoreData:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DDCoreData: 6b1e6ffbbf3aa5bd400cbd837ab231199938c69c
+
+PODFILE CHECKSUM: 0ae0c793cd1f1b1fb5feff27da6f0698b3df54ad
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,6 @@
+framework module DDCoreData {
+  umbrella header "DDCoreData-umbrella.h"
+
+  export *
+  module * { export * }
+}

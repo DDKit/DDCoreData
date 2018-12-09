@@ -1,0 +1,22 @@
+{
+  "name": "DDCoreData",
+  "version": "0.1.0",
+  "summary": "A short description of DDCoreData.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/duanchanghe@gmail.com/DDCoreData",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "duanchanghe@gmail.com": "592110272@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/duanchanghe@gmail.com/DDCoreData.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DDCoreData/Classes/**/*"
+}
