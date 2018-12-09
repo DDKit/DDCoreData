@@ -1,8 +1,8 @@
 {
   "name": "DDCoreData",
-  "version": "0.1.0",
-  "summary": "A short description of DDCoreData.",
-  "description": "TODO: Add long description of the pod here.",
+  "version": "0.1.1",
+  "summary": "基于CoreData的二次封装",
+  "description": "基于CoreData的二次封装\n基于CoreData的二次封装",
   "homepage": "https://github.com/duanchanghe@gmail.com/DDCoreData",
   "license": {
     "type": "MIT",
@@ -13,10 +13,14 @@
   },
   "source": {
     "git": "https://github.com/duanchanghe@gmail.com/DDCoreData.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "9.0"
   },
-  "source_files": "DDCoreData/Classes/**/*"
+  "source_files": "DDCoreData/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ]
 }

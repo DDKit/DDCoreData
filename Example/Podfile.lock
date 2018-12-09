@@ -1,5 +1,5 @@
 PODS:
-  - DDCoreData (0.1.0)
+  - DDCoreData (0.1.1)
 
 DEPENDENCIES:
   - DDCoreData (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  DDCoreData: 6b1e6ffbbf3aa5bd400cbd837ab231199938c69c
+  DDCoreData: fd1111f4f10409f26d3d5ae74b27305b3318c88b
 
 PODFILE CHECKSUM: 0ae0c793cd1f1b1fb5feff27da6f0698b3df54ad
 
